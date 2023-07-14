@@ -47,3 +47,9 @@ output.elasticsearch:
 ```
 
 Refer [filebeat.yml](./filebeat.yml)
+
+### Kibana 
+
+Visit [Kibana](http://localhost:5601/app/logs/stream) to view your log files 
+
+<img width="1497" alt="image" src="https://github.com/sujitrs/POC-FileBeatELK/assets/23429265/0747274f-cd55-47bc-846c-cf8a8997ae4d">
